@@ -13,10 +13,4 @@
 //= require jquery
 //= require jquery_ujs
 //= require twitter/bootstrap
-//= require ./vendor/ember-latest
-//= require ./vendor/handlebars.js
 //= require_tree .
-//= require app/app
-//= require_tree ./app/controllers
-//= require_tree ./app/views
-//= require_tree ./app/templates
